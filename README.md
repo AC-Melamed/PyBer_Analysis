@@ -76,7 +76,7 @@ ax.legend(loc='center')
 from matplotlib import style
 style.use('fivethirtyeight')
 ```
-![Data Comparison Visualization](https://github.com/AC-Melamed/PyBer_Analysis/blob/main/analysis/DataComparisonVisualization.png)
+![Data Comparison Visualization](https://github.com/AC-Melamed/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 #### Comparison of Ridesharing Data Between City Types
 From the merged dataframe it is apparent that urban type cities greatly exceed all other types in terms of total rides, drivers, and fares, while being in turn exceeded in terms of average fare per ride and per driver.  Rural type cities rank last in terms of total rides, drivers, and fares, but first in terms of average fare per ride and per driver; the latter value represents nearly four times that of suburban type cities, which in turn represents nearly three and a half times that of urban type cities.
